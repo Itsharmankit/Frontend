@@ -1,0 +1,7 @@
+{
+  "projectId": "98dbaf4d-6b04-44ca-86a1-85a6b378cbc5",
+  "createdAt": 1771580462087,
+  "version": "1.0",
+  "startupCommands": ["npx --yes serve \"D:\\New folder\" -l 3000"],
+  "templateId": "any"
+}
